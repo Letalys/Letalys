@@ -1,4 +1,4 @@
-# :construction: :construction: My Github Profile and Repos currently on Rework :construction: :construction:
+# :construction: My Github Profile and Repos currently on Rework :construction:
 
 Don't be scared ! :scream:
 
