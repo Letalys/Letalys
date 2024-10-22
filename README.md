@@ -1,5 +1,20 @@
-:construction: :construction: My Github Profile and Repos currently on Rework :construction: :construction:
----
+# :construction: :construction: My Github Profile and Repos currently on Rework :construction: :construction:
+
+Don't be scared ! :scream:
+
+This overhaul of my different repositories is necessary to better manage projects, new features, documentation and improve issue management and thus promote collaboration. :handshake:
+
+The old codes will be republished little by little depending on the projects, the names may also be revised. 
+
+- ConvertFrom-Robocoplog
+- Powershell PasswordGenerator
+- Powershell SCCM CustomInventories
+- Powershell ADQueries Collection
+- Install RSAT
+- NetAdapter Import/Export
+...
+
+Please feel free to contact me if you need a particular code that was previously on my Repo ! :nerd_face::nerd_face:
 
 # Nice to meet you! 👋
 
