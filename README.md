@@ -8,7 +8,7 @@ The old codes will be republished little by little depending on the projects, th
 
 - ConvertFrom-Robocoplog :white_check_mark: DONE ! -> [New Version ! ](https://github.com/Letalys/ConvertFrom-RobocopLog)
 - Powershell PasswordGenerator
-- Powershell SCCM CustomInventories :white_check_mark: DONE ! -> [SCCM Custom Inventory Builer]([https://github.com/Letalys/ConvertFrom-RobocopLog](https://github.com/Letalys/SCCM-CustomInventoryBuilder))
+- Powershell SCCM CustomInventories :white_check_mark: DONE ! -> [SCCM Custom Inventory Builer](https://github.com/Letalys/SCCM-CustomInventoryBuilder)
 - Powershell ADQueries Collection
 - Install RSAT
 - NetAdapter Import/Export
