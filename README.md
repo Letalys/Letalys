@@ -6,9 +6,9 @@ This overhaul of my different repositories is necessary to better manage project
 
 The old codes will be republished little by little depending on the projects, the names may also be revised. 
 
-- ConvertFrom-Robocoplog
+- ConvertFrom-Robocoplog :white_check_mark: DONE ! -> [New Version ! ](https://github.com/Letalys/ConvertFrom-RobocopLog)
 - Powershell PasswordGenerator
-- Powershell SCCM CustomInventories
+- Powershell SCCM CustomInventories :white_check_mark: DONE ! -> [SCCM Custom Inventory Builer]([https://github.com/Letalys/ConvertFrom-RobocopLog](https://github.com/Letalys/SCCM-CustomInventoryBuilder))
 - Powershell ADQueries Collection
 - Install RSAT
 - NetAdapter Import/Export
