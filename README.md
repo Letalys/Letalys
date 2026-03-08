@@ -1,8 +1,5 @@
-# Nice to meet you! 👋
+# 😄 About me
 
-I'm **Letalys**.
-
-## 😄 About me
 I'm an **IT Expert** in the **Digital Workplace** domain, working closely with **Windows environments** and **end-user** technologies, especially **Microsoft Endpoint Configuration Manager (MECM)**. I also have experience with **Windows infrastructure**, particularly **Active Directory**.
 Originally trained as a .NET developer, I fell in love with PowerShell a few years ago, which makes it my current favorite technology.
 
