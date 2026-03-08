@@ -1,24 +1,6 @@
-# :construction: My Github Profile and Repos currently on Rework :construction:
-
-Don't be scared ! :scream:
-
-This overhaul of my different repositories is necessary to better manage projects, new features, documentation and improve issue management and thus promote collaboration. :handshake:
-
-The old codes will be republished little by little depending on the projects, the names may also be revised. 
-
-- ConvertFrom-Robocoplog :white_check_mark: DONE ! -> [New Version ! ](https://github.com/Letalys/ConvertFrom-RobocopLog)
-- Powershell PasswordGenerator
-- Powershell SCCM CustomInventories :white_check_mark: DONE ! -> [SCCM Custom Inventory Builer](https://github.com/Letalys/SCCM-CustomInventoryBuilder)
-- Powershell ADQueries Collection
-- Install RSAT
-- NetAdapter Import/Export
-...
-
-Please feel free to contact me if you need a particular code that was previously on my Repo ! :nerd_face::nerd_face:
-
 # Nice to meet you! 👋
 
-I'm **Christophe Goemaere**, also known as **Letalys**.
+I'm **Letalys**.
 
 ## 😄 About me
 I'm an **IT Expert** in the **Digital Workplace** domain, working closely with **Windows environments** and **end-user** technologies, especially **Microsoft Endpoint Configuration Manager (MECM)**. I also have experience with **Windows infrastructure**, particularly **Active Directory**.
